@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 {
 	int index;
 	int z;
-	int a =10, b = 5, sum;
+	int a =10, b = 3, sum;
 	int (*funP[4])(int*, int*) = {add,sub,mul};
 	while(1)
 	{
